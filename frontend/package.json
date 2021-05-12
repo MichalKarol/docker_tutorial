@@ -11,7 +11,7 @@
     "@types/chart.js": "^2.8.1",
     "@types/luxon": "^1.15.2",
     "bulma": "^0.7.5",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "core-js": "^2.6.5",
     "luxon": "^1.17.2",
     "node-sass": "^4.12.0",
