@@ -1,4 +1,4 @@
-ala ma kota i nie ma psa
+ala ma dwa koty
 # Tutorial Docker
 
 ## Troche teorii
